@@ -1,0 +1,10 @@
+{
+  "name": "taller-listas-gestion-pedidos",
+  "version": "1.0.0",
+  "description": "Taller de listas aplicado a la gestión de pedidos en una tienda",
+  "private": true,
+  "scripts": {
+    "ejecutar": "node dist/main.js",
+    "iniciar": "node dist/main.js"
+  }
+}
