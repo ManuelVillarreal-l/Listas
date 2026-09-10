@@ -1,9 +1,3 @@
-# TALLER DE LISTAS - GESTIÓN DE PEDIDOS
-
-## IMPORTANTE
-Esta versión está preparada para ejecutarse sin instalar TypeScript ni ejecutar `tsc`.
-El archivo `src/main.ts` contiene el código TypeScript para entregar y estudiar.
-El archivo `dist/main.js` es la versión JavaScript ya preparada para ejecutarse con Node.
 
 ## EJECUTAR EN VISUAL STUDIO CODE
 
